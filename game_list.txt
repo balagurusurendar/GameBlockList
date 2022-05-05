@@ -145,3 +145,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 ec2da525-df10-d4c4-be66-afe3794f9780-ap-south-1.rtcp.on.epicgames.com
 0.0.0.0 ec299fb6-8bc8-e553-7ced-d5605090953c-me-south-1.rtcp.on.epicgames.com
 0.0.0.0 zerobuildtrials.fortnite.com.home
+0.0.0.0 api.protonvpn.ch
